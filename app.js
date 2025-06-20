@@ -1,5 +1,5 @@
 // Exibe uma mensagem no console
-console.log("Olá, mundo!");
+console.log("Olá, Mundo!");
 
 // Declaração de variáveis
 let nome = "Arthur";
