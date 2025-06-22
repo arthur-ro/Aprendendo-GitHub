@@ -20,3 +20,5 @@ function saudacao(nome) {
 // Chamando a função
 console.log(saudacao("Maria"));
 
+console.log("finalizando programa");
+
