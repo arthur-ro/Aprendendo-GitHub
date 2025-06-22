@@ -5,7 +5,7 @@ console.log("Olá, Mundo!");
 let nome = "Arthur";
 let idade = 25;
 
-// Condicional (if)
+// Condicional (if / else)
 if (idade >= 18) {
   console.log(nome + " é maior de idade.");
 } else {
