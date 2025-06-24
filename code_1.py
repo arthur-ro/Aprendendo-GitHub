@@ -12,4 +12,6 @@ if jogador == computador:
 else:
     print('GANHEI! Pensei no {} e não no {}.'.format(computador, jogador))
 
+print('Finalisando o codigo')
+
 
