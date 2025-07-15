@@ -54,4 +54,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ---
 
-> Feito com dedicação por [Arthur Caetano Da Silva](https://github.com/arthur-ro) e [Heder Gabriel](https://github.com/HederGabriel) ✨
+> Feito com dedicação por [Arthur Caetano Da Silva](https://github.com/arthur-ro) ✨
