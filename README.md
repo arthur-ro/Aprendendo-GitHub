@@ -2,8 +2,6 @@
 
 > Repositório criado para estudo prático de Git, GitHub e comandos básicos de versionamento. 🎓
 
-![GitHub Banner](https://via.placeholder.com/900x300.png?text=Aprendendo+GitHub)
-
 ---
 
 ## 📂 Arquivos no Repositório
@@ -36,12 +34,12 @@
 > Última versão disponível:  
 `v0.0.1` ✅
 
-Você pode acessar as versões disponíveis na aba [Releases](https://github.com/SEU_USUARIO/Aprendendo-GitHub/releases).
+
 
 ---
 
 ## 🎮 Screenshot do Jogo em Python
-![Screenshot do Jogo](https://via.placeholder.com/600x400.png?text=Jogo+em+Python)
+
 
 ---
 
